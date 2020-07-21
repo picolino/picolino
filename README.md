@@ -3,11 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=picolino" alt="picolino" /> </p>
 
-- 🔭 I’m currently working on [Skillaz SaaS platform](https://skillaz.ru/)
-
-- 👨‍💻 All of my projects are available at [https://picolino.dev](https://picolino.dev)
-
+- 🔭 I’m currently working on [Skillaz platform](https://skillaz.ru/)
 - 📫 How to reach me **contact@picolino.dev**
+
 <p align="center">
   <img src="https://konpa.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="80" height="80"/> 
   <img src="https://konpa.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="80" height="80"/> 
