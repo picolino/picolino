@@ -6,12 +6,19 @@
 - 🔭 I’m currently working on [Skillaz platform](https://skillaz.ru/)
 - 📫 How to reach me **contact@picolino.dev**
 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=picolino&show_icons=true" alt="picolino" />
+</p>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@picolino" alt="picolino" />
+</p>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=picolino" alt="picolino" />
+</p>
+
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp" width="80" height="80"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt="dotnet" width="80" height="80"/> 
-</p>
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=picolino&show_icons=true" alt="picolino" /> 
 </p>
 
 <p align="center">
