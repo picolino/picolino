@@ -4,7 +4,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=picolino" alt="picolino" /> </p>
 
 - 🔭 I’m currently working on [Skillaz platform](https://skillaz.ru/)
-- 📫 How to reach me **contact@picolino.dev**
+- 📫 How to reach me **contact@picolino.dev**. Also you can leave me a message via [GitHub Discussion](https://github.com/picolino/picolino/discussions)
+
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=picolino&show_icons=true" alt="picolino" />
