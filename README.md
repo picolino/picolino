@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danila Chervonny</h1>
-<h3 align="center">A middle C# developer from Russia</h3>
+<h3 align="center">C# Software Architect from Russia</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=picolino" alt="picolino" /> </p>
 
