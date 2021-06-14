@@ -10,16 +10,19 @@
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=picolino&show_icons=true" alt="picolino" />
 </p>
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@picolino" alt="picolino" />
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=picolino" />
 </p>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=picolino" alt="picolino" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@picolino&layout=compact" alt="picolino" />
+</p>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=picolino&layout=compact" alt="picolino" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp" width="80" height="80"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt="dotnet" width="80" height="80"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/csharp/csharp-original.svg" alt="csharp" width="80" height="80"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="80" height="80"/> 
 </p>
 
 <p align="center">
