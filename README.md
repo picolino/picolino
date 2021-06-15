@@ -7,19 +7,13 @@
 - 📫 How to reach me **contact@picolino.dev**. Also you can leave me a message via [GitHub Discussion](https://github.com/picolino/picolino/discussions)
 
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=picolino&show_icons=true" alt="picolino" />
-</p>
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=picolino" />
+  <img src="https://github-readme-stats.vercel.app/api?username=picolino&show_icons=true" alt="picolino" width="48%" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=picolino" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@picolino&layout=compact" alt="picolino" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=picolino&layout=compact" alt="picolino" width="39.1%" />
 </p>
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@picolino&layout=compact" alt="picolino" />
-</p>
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=picolino&layout=compact" alt="picolino" />
-</p>
-
+  
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/csharp/csharp-original.svg" alt="csharp" width="80" height="80"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="80" height="80"/> 
