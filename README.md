@@ -2,7 +2,7 @@
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
-🔭 I’m currently working on [Skillaz platform](https://skillaz.ru/)  
+🔭 I’m currently working in [Positive Technologies](https://www.ptsecurity.com/)  
 📫 How to reach me: **contact@picolino.dev**. Also you can leave me a message via [GitHub Discussion](https://github.com/picolino/picolino/discussions)
 
 <img src="https://www.codewars.com/users/picolino/badges/large?theme=light" alt="CodeWars Stats">
